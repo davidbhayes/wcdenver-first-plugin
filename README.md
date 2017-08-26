@@ -1,6 +1,17 @@
 # Making Your First Plugin at WordCamp Denver 2017
 
-This repository will hold the steps we'll take in the "Making Your First WordPress Plugin" workshop.
+Welcome!
+
+## Our Plugin
+
+We'll be creating a basic "testimonials" plugin. It will consist of a new post type, a taxonomy (for industry? or skills?), a shortcode to show the content in posts, and a widget to show them in sidebars. The idea is that this might be practically useful to you, but it also covers most of the standard WordPress APIs used in plugins.
+
+## Format Notes
+
+* PLEASE ASK QUESTIONS IF YOU GET CONFUSED
+* Please ask questions if you're wondering something
+* Our flow will be to watch it done, *THEN* do it ourselves, not simultaneously. The reason is that you can focus on concepts while watching, and practical matters when doing. That should allow you to learn it twice, in two different ways. This is more effective than trying to follow my work as I do it, as if by rote. (If you don't have a WordPress site you can do this on, we can work on getting you something while others complete steps, or you can just rest.)
+* Please don't hesitate to ask questions
 
 ## What We'll Talk About Before We Start
 
